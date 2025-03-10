@@ -31,16 +31,17 @@ body{
 }
 .subt{
     display: flex;
-    color: #1E90FF;
+    color: #ff711e;
 }
 .gip {
     margin-left: 5%;
+
 }
 .str{
     margin-left: 62%;
 }
 .final {
-    color: #1E90FF;
+    color: #ff5e1e;
     margin-left: 5%;
     margin-top: 5%;
 }
