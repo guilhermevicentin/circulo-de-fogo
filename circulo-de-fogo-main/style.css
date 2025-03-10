@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+.sub{
+    color: white;
+    text-align: center;
+}
+.logo{
+     margin-left: 29%;
+     font-size: 5em;
+}
+.nomes {
+    color: #ff711e;
+    display: flex;
+
+}
+.S {
+    display: flex;
+    margin-left: 80%;
+    font-size: 2em;
+}
+
+.G{
+    margin-left: 5%;
+    font-size: 2em;
+}
+.ima {
+    display: flex;
+}
+.s {
+    margin-left: 55%;
+}
+.subt{
+    display: flex;
+    color: #ff711e;
+}
+.gip {
+    margin-left: 5%;
+
+}
+.str{
+    margin-left: 62%;
+}
+.final {
+    color: #ff5e1e;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.roda{
+    color: white;
+    display: flex;
+    margin-left: 40%;
+}
