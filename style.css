@@ -9,17 +9,19 @@ body{
      margin-left: 29%;
 }
 .nomes {
-    color: #1E90FF;
+    color: #ff711e;
     display: flex;
 
 }
 .S {
     display: flex;
     margin-left: 80%;
+    font-size: 2em;
 }
 
 .G{
     margin-left: 5%;
+    font-size: 2em;
 }
 .ima {
     display: flex;
